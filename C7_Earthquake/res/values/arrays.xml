@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="magnitude_entries">
+        <item>1 Магнитуд</item>
+        <item>2 Магнитуд</item>
+        <item>3 Магнитуд</item>
+        <item>4 Магнитуд</item>
+        <item>5 Магнитуд</item>
+    </string-array>
+    
+    <string-array name="magnitude_entryValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    
+    <string-array name="freq_entries">
+        <item>Каждую Минуту</item>
+        <item>Каждые 5 Минут</item>
+        <item>Каждые 10 Минут</item>
+        <item>Каждые 15 Минут</item>
+        <item>Каждый Час</item>
+    </string-array>
+
+    <string-array name="freq_entryValues">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>60</item>
+    </string-array>
+
+</resources>

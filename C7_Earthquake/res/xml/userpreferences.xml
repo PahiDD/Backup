@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+  <CheckBoxPreference
+    android:key="PREF_AUTO_UPDATE"
+    android:title="@string/prefs_auto_update_title"
+    android:summary="@string/prefs_auto_update_summary"
+    android:defaultValue="true"
+  />
+  <ListPreference
+    android:key="PREF_UPDATE_FREQ"
+    android:title="@string/prefs_update_freq_title"
+    android:summary="@string/prefs_update_freq_summary"
+    android:entries="@array/freq_entries"
+    android:entryValues="@array/freq_entryValues"
+    android:dialogTitle="@string/prefs_update_freq_title"
+    android:defaultValue="60"
+  />
+  <ListPreference
+    android:key="PREF_MIN_MAG"
+    android:title="@string/prefs_quake_mag_title"
+    android:summary="@string/prefs_quake_mag_summary"
+    android:entries="@array/magnitude_entries"
+    android:entryValues="@array/magnitude_entryValues"
+    android:dialogTitle="@string/prefs_quake_mag_title"
+    android:defaultValue="3"
+  />
+</PreferenceScreen>

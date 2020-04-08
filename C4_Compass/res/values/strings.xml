@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-  <string name="app_name">C4_Компасс</string>
-  <string name="cardinal_north">Север</string>
-  <string name="cardinal_east">Восток</string>
-  <string name="cardinal_south">Юг</string>
-  <string name="cardinal_west">Запад</string>
-</resources>

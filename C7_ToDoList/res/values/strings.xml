@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">C7_Лист дел на день</string>
+    <string name="add_new">Добавить запись</string>
+    <string name="remove">Удалить запись</string>
+    <string name="cancel">Отменить</string>
+    <string name="edit_label">Добавить новую запись</string>
+    <string name="ContextMenu_Header">Выделите запись</string>
+
+</resources>
